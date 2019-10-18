@@ -12,6 +12,7 @@ namespace CAGitHub
         {
             Console.WriteLine("Я работаю с git");
             ячсячс поппропро
+                риоспрло
         }
     }
 }
