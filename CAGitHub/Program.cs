@@ -11,6 +11,7 @@ namespace CAGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Я работаю с git");
+            ячсячс
         }
     }
 }
